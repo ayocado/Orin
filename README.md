@@ -7,10 +7,11 @@
 ## 📋 목차
 1. [서비스 소개](#-서비스-소개)
 2. [주요 서비스 기능](#-주요-서비스-기능)
-3. [아키텍처 플로우](#-아키텍처-플로우)
-4. [파일 구조](#-파일-구조)
-5. [팀원 및 역할](#-팀원-및-역할)
-6. [기술 스택](#-기술-스택)
+3. [시연 영상](#-시연-영상)
+4. [아키텍처 플로우](#-아키텍처-플로우)
+5. [파일 구조](#-파일-구조)
+6. [팀원 및 역할](#-팀원-및-역할)
+7. [기술 스택](#-기술-스택)
 <br>
 
 ## 💡 서비스 소개
@@ -27,6 +28,7 @@
 
 ## ❗ 주요 서비스 기능
 #### 1. 자기소개서 초안 생성 서비스
+- 질문, 회사, 직무, 글자수, 경험 기반 초안 생성
 #### 2. 자기소개서 수정 서비스
 - 맞춤법 교정
 - 소제목 추천
@@ -39,6 +41,32 @@
 - 크롬 브라우저에서 서비스 이용 가능 (맞춤법 교정, 유의어 추천)
 - 드래그 후, 우클릭하면 사이트로 바로 이동
 <br>
+
+## 🎥 시연 영상
+#### 1. 자기소개서 초안 생성 서비스
+<p align="center"><img src="https://github.com/ayocado/Orin/assets/89889583/97e3ae2e-372f-405d-a247-6585d6f5f422" width="75%"></p>
+
+#### 2. 자기소개서 수정 서비스
+- 맞춤법 교정 & 소제목 추천
+  <br>
+  <p align="center"><img src="https://github.com/ayocado/Orin/assets/89889583/5dc55400-dc7c-412b-9fde-e4580fea4938" width="75%"></p>
+
+- 유의어 추천 & 북마크
+  <br>
+  <p align="center"><img src="https://github.com/ayocado/Orin/assets/89889583/1ca195a2-73bd-4c7b-bb5d-ed65fbfec525" width="75%"></p>
+
+- 자기소개서 ai 코칭
+  <br>
+  <p align="center"><img src="https://github.com/ayocado/Orin/assets/89889583/eae767dc-5815-4af0-a765-eb117d6bd2d4" width="75%"></p>
+
+#### 3. 자기소개서 관리 서비스
+- 자소서 보관함
+  <br>
+  <p align="center"><img src="https://github.com/ayocado/Orin/assets/89889583/0a7fc562-7abf-4a4e-b652-a50f3989b56c" width="75%"></p>
+  
+#### 4. chrome extension (크롬 확장 프로그램)
+<p align="center"><img src="https://github.com/ayocado/Orin/assets/89889583/c0efb328-421d-41fd-8102-cacd29acbacb" width="75%"></p>
+<br><br>
 
 ## 🔀 아키텍처 플로우
 <img src='./architecture_flow.png'>
